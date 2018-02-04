@@ -1,7 +1,7 @@
 import android.view.imagebutton;
 
 public class CheckableImageButton extends ImageButton {
-    public CheckableImageButton(Context context) {
+    public CheckableImageButton(@NonNull Context context) {
         super(context);
         }
 }
